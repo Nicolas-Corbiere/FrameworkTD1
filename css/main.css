@@ -4,7 +4,7 @@
  }
 .item-b { 
     grid-area: main-1; 
-    background-color: grey;
+    background-color: rgb(196, 194, 194);
 }
 .item-c { 
     grid-area: main-2; }
@@ -44,6 +44,17 @@
 .photo {
     width: 20rem;
     height: 20rem;
+}
+
+#photo-ptofile {
+    width: 20rem;
+    height: 20rem;
+    
+}
+
+.cercle {
+    background: grey;
+    border-radius: 50%; 
 }
 
 .flex-iteam-a {
